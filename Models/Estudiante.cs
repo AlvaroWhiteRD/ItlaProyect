@@ -1,6 +1,6 @@
 ﻿using ItlaProyec.BaseModels;
 
-namespace ItlaProyec.Models;
+namespace ItlaProyec.BaseModels;
 
 class Estudiante : Persona
 {
