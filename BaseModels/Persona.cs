@@ -1,9 +1,7 @@
-﻿
-
-namespace ItlaProyec;
+﻿namespace ItlaProyec.BaseModels;
 
 
-class Persona
+public abstract class Persona
 {
     public string Nombre { get; set; }
     public int Edad { get; set; }
@@ -21,8 +19,9 @@ class Persona
         Console.WriteLine($"Nombre: {Nombre}, Edad: {Edad}, Ciudad: {Ciudad}");
     }
 
-    public int CalcularEdad()
+    public int CalcularEdad( DateTime fechaNacimiento)
     {
-        return Edad;
+        int edad = DateTime.Now.Year - fechaNacimiento.Year;
+        return edad;
     }
 }

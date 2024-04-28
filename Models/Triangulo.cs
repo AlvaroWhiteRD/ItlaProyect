@@ -1,6 +1,6 @@
-﻿
+﻿using ItlaProyec.BaseModels;
 
-namespace ItlaProyec;
+namespace ItlaProyec.Models;
 
 class Triangulo : Figura
 {
@@ -15,6 +15,6 @@ class Triangulo : Figura
 
     public override double CalcularArea()
     {
-        return (Base * Altura) / 2;
+        return Base * Altura / 2;
     }
 }

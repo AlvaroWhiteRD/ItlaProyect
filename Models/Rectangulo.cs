@@ -1,6 +1,6 @@
-﻿
+﻿using ItlaProyec.BaseModels;
 
-namespace ItlaProyec;
+namespace ItlaProyec.Models;
 
 class Rectangulo : Figura
 {

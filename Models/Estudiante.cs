@@ -1,6 +1,6 @@
-﻿
+﻿using ItlaProyec.BaseModels;
 
-namespace ItlaProyec;
+namespace ItlaProyec.Models;
 
 class Estudiante : Persona
 {
@@ -18,6 +18,11 @@ class Estudiante : Persona
     {
         base.MostrarInformacion();
         Console.WriteLine($"Carrera: {Carrera}, Matrícula: {Matricula}");
+    }
+
+    public int CalcularEdad()
+    {
+        return CalcularEdad(DateTime.Now);
     }
 }
 

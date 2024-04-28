@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using ItlaProyec.BaseModels;
 
-namespace ItlaProyec;
+namespace ItlaProyec.Models;
 
 
 class Circulo : Figura

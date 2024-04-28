@@ -12,3 +12,4 @@ C:\Users\a.blanco\source\repos\itla\ItlaProyec\obj\Debug\net8.0\refint\ItlaProye
 C:\Users\a.blanco\source\repos\itla\ItlaProyec\obj\Debug\net8.0\ItlaProyec.pdb
 C:\Users\a.blanco\source\repos\itla\ItlaProyec\obj\Debug\net8.0\ItlaProyec.genruntimeconfig.cache
 C:\Users\a.blanco\source\repos\itla\ItlaProyec\obj\Debug\net8.0\ref\ItlaProyec.dll
+C:\Users\a.blanco\source\repos\itla\ItlaProyec\obj\Debug\net8.0\ItlaProyec.sourcelink.json

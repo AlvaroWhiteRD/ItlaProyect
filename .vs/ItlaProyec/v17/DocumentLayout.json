@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\models\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:models\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\basemodels\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:basemodels\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\basemodels\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:basemodels\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\models\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:models\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\models\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:models\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,85 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Triangulo.cs",
-              "RelativeDocumentMoniker": "Triangulo.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Triangulo.cs",
-              "RelativeToolTip": "Triangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Models\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Triangulo.cs",
+              "RelativeToolTip": "Models\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:48:29.403Z"
+              "WhenOpened": "2024-04-22T12:48:29.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Rectangulo.cs",
-              "RelativeDocumentMoniker": "Rectangulo.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Rectangulo.cs",
-              "RelativeToolTip": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Models\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Rectangulo.cs",
+              "RelativeToolTip": "Models\\Rectangulo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:48:06.241Z"
+              "WhenOpened": "2024-04-22T12:48:06.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Circulo.cs",
-              "RelativeDocumentMoniker": "Circulo.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Circulo.cs",
-              "RelativeToolTip": "Circulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Circulo.cs",
+              "RelativeDocumentMoniker": "Models\\Circulo.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Circulo.cs",
+              "RelativeToolTip": "Models\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:47:37.236Z"
+              "WhenOpened": "2024-04-22T12:47:37.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Figura.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Figura.cs",
-              "RelativeDocumentMoniker": "Figura.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Figura.cs",
-              "RelativeToolTip": "Figura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\BaseModels\\Figura.cs",
+              "RelativeDocumentMoniker": "BaseModels\\Figura.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\BaseModels\\Figura.cs",
+              "RelativeToolTip": "BaseModels\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:47:14.833Z"
+              "WhenOpened": "2024-04-22T12:47:14.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Estudiante.cs",
-              "RelativeDocumentMoniker": "Estudiante.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Estudiante.cs",
-              "RelativeToolTip": "Estudiante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Models\\Estudiante.cs",
+              "RelativeToolTip": "Models\\Estudiante.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:46:40.089Z"
+              "WhenOpened": "2024-04-22T12:46:40.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Persona.cs",
-              "RelativeDocumentMoniker": "Persona.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Persona.cs",
-              "RelativeToolTip": "Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\BaseModels\\Persona.cs",
+              "RelativeDocumentMoniker": "BaseModels\\Persona.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\BaseModels\\Persona.cs",
+              "RelativeToolTip": "BaseModels\\Persona.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:46:10.771Z"
+              "WhenOpened": "2024-04-22T12:46:10.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T12:44:54.214Z",
               "EditorCaption": ""
