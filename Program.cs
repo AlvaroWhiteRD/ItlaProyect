@@ -1,7 +1,22 @@
 ﻿using ItlaProyec.Intefaces;
 using ItlaProyec.Models;
+using ItlaProyec.OCP;
 using ItlaProyec.Services;
-using System.Reflection;
+
+//OCP
+TaxCalculator calculator = new TaxCalculator();
+
+decimal income = 100;
+decimal deduction = 20;
+string country = "RD";
+
+decimal taxAmount = calculator.Calculate(income, deduction, country);
+
+Console.WriteLine($"El monto del impuesto para {country} es: {taxAmount}");
+
+
+
+
 
 Persona persona = new Persona
 {
@@ -17,6 +32,19 @@ IImprimirServices imprimirServices = new ImprimirServices();
 
 correoService.EnviarCorreo("Hola, este es el correo");
 imprimirServices.ImprimirDatos(persona);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

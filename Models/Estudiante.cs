@@ -22,7 +22,7 @@ class Estudiante : Persona
 
     public int CalcularEdad()
     {
-        return CalcularEdad(DateTime.Now);
+        return base.CalcularEdad(DateTime.Now);
     }
 }
 
