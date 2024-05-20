@@ -4,6 +4,29 @@ using ItlaProyec.LSP;
 using ItlaProyec.Models;
 using ItlaProyec.OCP;
 using ItlaProyec.Services;
+using ItlaProyec.ISP.ConRefactoring.Interfaz;
+using ItlaProyec.ISP.SinRefactoring.Interfaz;
+using ItlaProyec.ISP.SinRefactoring;
+using ItlaProyec.ISP.ConRefactoring;
+
+
+//ISP
+IAve2 loro = new Loro2();
+loro.Cantar();
+loro.PonerHuevos();
+((IAveVoladora)loro).Volar();
+
+IAve2 pinguino = new Pinguino2();
+pinguino.Cantar();
+pinguino.PonerHuevos();
+((IAveNadadora)pinguino).Nadar();
+
+IAve2 aguila = new Aguila2();
+aguila.Cantar();
+aguila.PonerHuevos();
+((IAveVoladora)aguila).Volar();
+((IAveCazadora)aguila).Cazar();
+
 
 //LSP
 FiguraGeometrica rectangulo1 = new  ItlaProyec.LSP.Rectangulo { Base = 4, Altura = 5 };

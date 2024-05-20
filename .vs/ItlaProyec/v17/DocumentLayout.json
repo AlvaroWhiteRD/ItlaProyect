@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\lsp\\base\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:lsp\\base\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\lsp\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:lsp\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\lsp\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:lsp\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\isp\\conrefactoring\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:isp\\conrefactoring\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cuadrado.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Cuadrado.cs",
-              "RelativeDocumentMoniker": "LSP\\Cuadrado.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Cuadrado.cs",
-              "RelativeToolTip": "LSP\\Cuadrado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:45:17.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Rectangulo.cs",
-              "RelativeDocumentMoniker": "LSP\\Rectangulo.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Rectangulo.cs",
-              "RelativeToolTip": "LSP\\Rectangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:32:51.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FiguraGeometrica.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Base\\FiguraGeometrica.cs",
-              "RelativeDocumentMoniker": "LSP\\Base\\FiguraGeometrica.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Base\\FiguraGeometrica.cs",
-              "RelativeToolTip": "LSP\\Base\\FiguraGeometrica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Title": "Aguila.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\ISP\\ConRefactoring\\Aguila.cs",
+              "RelativeDocumentMoniker": "ISP\\ConRefactoring\\Aguila.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\ISP\\ConRefactoring\\Aguila.cs",
+              "RelativeToolTip": "ISP\\ConRefactoring\\Aguila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:31:26.138Z",
+              "WhenOpened": "2024-05-20T15:14:53.169Z",
               "EditorCaption": ""
             },
             {
@@ -79,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T14:04:58.174Z",
               "EditorCaption": ""

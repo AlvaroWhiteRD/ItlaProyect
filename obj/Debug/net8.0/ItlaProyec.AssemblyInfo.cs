@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ItlaProyec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef7b2ae5655845ac8125e9e397ac50839e78db7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5b07e7907c563e1ce6a2b97537c1fdd4f69566")]
 [assembly: System.Reflection.AssemblyProductAttribute("ItlaProyec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ItlaProyec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
