@@ -1,7 +1,20 @@
 ﻿using ItlaProyec.Intefaces;
+using ItlaProyec.LSP.Base;
+using ItlaProyec.LSP;
 using ItlaProyec.Models;
 using ItlaProyec.OCP;
 using ItlaProyec.Services;
+
+//LSP
+FiguraGeometrica rectangulo1 = new  ItlaProyec.LSP.Rectangulo { Base = 4, Altura = 5 };
+FiguraGeometrica cuadrado1 = new Cuadrado { Base = 4, Altura = 5 }; // Violación del LSP
+
+Console.WriteLine($"Área del rectángulo: {rectangulo1.CalcularArea()}");
+Console.WriteLine($"Área del cuadrado: {cuadrado1.CalcularArea()}"); // Esto falla al no ser un cuadrado.
+
+
+
+
 
 //OCP
 TaxCalculator calculator = new TaxCalculator();
@@ -49,7 +62,7 @@ imprimirServices.ImprimirDatos(persona);
 
 
 
-Rectangulo rectangulo = new Rectangulo(5, 10);
+ItlaProyec.Models.Rectangulo rectangulo = new ItlaProyec.Models.Rectangulo(5, 10);
 Circulo circulo = new Circulo(3);
 Triangulo triangulo = new Triangulo(4, 6);
 

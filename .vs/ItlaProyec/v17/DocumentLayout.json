@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\ocp\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:ocp\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\lsp\\base\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:lsp\\base\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\ocp\\rdtax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:ocp\\rdtax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\lsp\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:lsp\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\ocp\\usatax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:ocp\\usatax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\ocp\\indiatax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:ocp\\indiatax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\ocp\\interfaces\\itax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:ocp\\interfaces\\itax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\basemodels\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:basemodels\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\lsp\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:lsp\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{2bb8137c-bac8-4d04-820a-c52b5d5b82da}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "LSP\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Cuadrado.cs",
+              "RelativeToolTip": "LSP\\Cuadrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:45:17.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "LSP\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Rectangulo.cs",
+              "RelativeToolTip": "LSP\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:32:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Base\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "LSP\\Base\\FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\LSP\\Base\\FiguraGeometrica.cs",
+              "RelativeToolTip": "LSP\\Base\\FiguraGeometrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:31:26.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,87 +79,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T14:04:58.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RdTax.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\RdTax.cs",
-              "RelativeDocumentMoniker": "OCP\\RdTax.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\RdTax.cs",
-              "RelativeToolTip": "OCP\\RdTax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:56:50.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaxCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\TaxCalculator.cs",
-              "RelativeDocumentMoniker": "OCP\\TaxCalculator.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\TaxCalculator.cs",
-              "RelativeToolTip": "OCP\\TaxCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:48:13.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsaTax.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\UsaTax.cs",
-              "RelativeDocumentMoniker": "OCP\\UsaTax.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\UsaTax.cs",
-              "RelativeToolTip": "OCP\\UsaTax.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:47:15.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IndiaTax.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\IndiaTax.cs",
-              "RelativeDocumentMoniker": "OCP\\IndiaTax.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\IndiaTax.cs",
-              "RelativeToolTip": "OCP\\IndiaTax.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:46:07.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITax.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\Interfaces\\ITax.cs",
-              "RelativeDocumentMoniker": "OCP\\Interfaces\\ITax.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\OCP\\Interfaces\\ITax.cs",
-              "RelativeToolTip": "OCP\\Interfaces\\ITax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:45:17.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\BaseModels\\Persona.cs",
-              "RelativeDocumentMoniker": "BaseModels\\Persona.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\BaseModels\\Persona.cs",
-              "RelativeToolTip": "BaseModels\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T22:55:01.824Z",
               "EditorCaption": ""
             }
           ]
