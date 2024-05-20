@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\isp\\conrefactoring\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:isp\\conrefactoring\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\practicadi\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:practicadi\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\practicadi\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:practicadi\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|c:\\users\\a.blanco\\source\\repos\\itla\\itlaproyec\\practicadi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE767BDD-B2AF-4786-B353-FFC6C811EC46}|ItlaProyec.csproj|solutionrelative:practicadi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Aguila.cs",
-              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\ISP\\ConRefactoring\\Aguila.cs",
-              "RelativeDocumentMoniker": "ISP\\ConRefactoring\\Aguila.cs",
-              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\ISP\\ConRefactoring\\Aguila.cs",
-              "RelativeToolTip": "ISP\\ConRefactoring\\Aguila.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\PracticaDI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PracticaDI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\PracticaDI\\Models\\Customer.cs",
+              "RelativeToolTip": "PracticaDI\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:14:53.169Z",
+              "WhenOpened": "2024-05-20T15:19:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\PracticaDI\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "PracticaDI\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\PracticaDI\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "PracticaDI\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:18:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\PracticaDI\\CustomerService.cs",
+              "RelativeDocumentMoniker": "PracticaDI\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\PracticaDI\\CustomerService.cs",
+              "RelativeToolTip": "PracticaDI\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:17:49.364Z",
               "EditorCaption": ""
             },
             {
@@ -45,7 +79,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\a.blanco\\source\\repos\\itla\\ItlaProyec\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBoAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T14:04:58.174Z",
               "EditorCaption": ""

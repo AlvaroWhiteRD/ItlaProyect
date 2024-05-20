@@ -5,9 +5,17 @@ using ItlaProyec.Models;
 using ItlaProyec.OCP;
 using ItlaProyec.Services;
 using ItlaProyec.ISP.ConRefactoring.Interfaz;
-using ItlaProyec.ISP.SinRefactoring.Interfaz;
-using ItlaProyec.ISP.SinRefactoring;
 using ItlaProyec.ISP.ConRefactoring;
+using ItlaProyec.PracticaDI.Models;
+using ItlaProyec.PracticaDI;
+
+
+//Practica DI
+CustomerService customerService = new CustomerService();
+Customer customer = customerService.GetCustomer();
+
+Console.WriteLine($"Customer ID: {customer.Id}, Name: {customer.Name}");
+
 
 
 //ISP
